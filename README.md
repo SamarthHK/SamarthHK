@@ -1,5 +1,5 @@
 # About Me:
-Currently working on a HTTP server built from raw TCP sockets (Java)<br>Learning Spring Boot<br>Creating some simple RAG applications<br>Looking to collaborate on Networking, Backend, and AI projects<br>Looking for help with coding convention and System architecture<br>Currently learning a few tools such as postgres, docker, linux, CI CD and more
+Currently working on a p2p file sharing app C# (File sharing repo)<br>Learning Spring Boot<br>Creating some simple RAG applications<br>Looking to collaborate on Networking, Backend, and AI projects<br>Looking for help with coding convention and System architecture<br>Learning DevOps, Databases, Backend and networking related tools and tech
 
 
 ## Socials:
