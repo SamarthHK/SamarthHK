@@ -24,13 +24,3 @@ Currently working on a p2p file sharing app C# ([File sharing repo](https://gith
 
 # ETC:
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=samarthHK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=samarthHK&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=samarthHK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=samarthHK&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
